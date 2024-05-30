@@ -12,4 +12,4 @@ This Python script continuously monitors the integrity of a specified file by ca
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/ozkanaltunbas/File-Integrity-Checker.git
